@@ -153,6 +153,10 @@ body {
     margin-left: 5%;
 }
 
+.hobbies {
+    margin-left: 5%;
+}
+
 .competences {
     margin-left: 5px;
 }
@@ -180,7 +184,7 @@ body {
 
 iframe {
     width: 100%;
-    height: 100px;
+    height: 200px;
 }
 
 .tigre {
@@ -291,6 +295,15 @@ button {
 
 .videoyoutube{
     height: 250px;
+}
+
+.presentation {
+    text-align: center;
+    border-style: solid;
+    border-radius: 45px;
+    background-color: #372C0C;
+    border-color: gold;
+    border-width: 10px;
 }
 
 
